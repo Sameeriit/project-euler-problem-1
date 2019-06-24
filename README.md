@@ -1,6 +1,8 @@
 # project-euler-problem-1
 i have solve problem 1 of project euler
+
 INTRODUCTION
+
 HI
 I am Sameer currently i am under grade studend of last sem,
 and supper excited to learn or solve the mathemetical computational problem,
